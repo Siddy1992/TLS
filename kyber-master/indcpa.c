@@ -4,7 +4,7 @@
 #include "indcpa.h"
 #include "polyvec.h"
 #include "poly.h"
-#include "ntt.h"
+#include "../ntt.h"
 #include "symmetric.h"
 #include "randombytes.h"
 

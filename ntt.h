@@ -6,7 +6,7 @@
 #define N 256
 
 //for DILITHIUM 1
-#define KYBER_DILITHIUM 1 
+#define KYBER_DILITHIUM 0
 
 
 #if KYBER_DILITHIUM==0 //KYBER
